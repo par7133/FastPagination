@@ -11,7 +11,7 @@
  Furthermore, FastPagination is making use of the class FastErr part of OpenGallery     
  and developed by me http://github/par7133     
  
- Given a div contain 'pagination-row', a $cssClass 'pagination' and  $cssClassActivePage 'active'      
+ Given a div container 'pagination-row', a $cssClass 'pagination' and a $cssClassActivePage named 'active'      
  an example of css customization could be the following:     
  
  .pagination-row {     
