@@ -4,13 +4,13 @@
  FastPagination class     
   
  @package  OpenGallery   http://github.com/dtmf7133     
- @author   Daniele Bonini <code@gaox.io>      
+ @author   Daniele Bonini <code@numd.eu>      
  @version  1.0     
  @phpver   5.6 to 7.3      
  @access   public     
- @note The class rendering the output controls is making use of Bootstrap.     
- Furthermore, FastPagination is making use of the class FastErr part of OpenGallery     
- and developed by me http://github/par7133     
+ @note The rendering the output controls is using Bootstrap.     
+ Furthermore, FastPagination is using the class FastErr part of OpenGallery     
+ and developed by me, http://github/dtmf7133     
  
  Given a div container 'pagination-row', a $cssClass 'pagination' and a $cssClassActivePage named 'active'      
  an example of css customization could be the following:     
@@ -48,8 +48,8 @@
    color: #677a85;    
  }
  
-For any need of software additions, plugins and improvements please write to <a href="mailto:info@numode.io">info@numode.io</a>  
+For any need of software additions, plugins and improvements please write to <a href="mailto:info@numode.eu">info@numode.eu</a>  
 
-To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a> and filling the form.  
+To help please donate by clicking <a href="https://numd.eu/l/dona1">https://numd.eu/l/dona1</a> and filling the form.  
 
-Feedback: <a href="mailto:code@gaox.io">code@gaox.io</a>
+Feedback: <a href="mailto:code@numd.eu">code@numd.eu</a>
